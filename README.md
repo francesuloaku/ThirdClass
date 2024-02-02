@@ -1,2 +1,1 @@
-# ThirdClass
-exploratory class
+
